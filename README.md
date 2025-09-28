@@ -53,9 +53,9 @@ leads to better accuracy.
 python Initialization.py
 ```
 2. Follow the prompts:
-  1. Estimate π - enter number of points `n` and get an estimation.
-  2. Compare π values - vies statistics and boxplot of your previous estimations.
-  3. Quit - exit the program.
+    1. Estimate π - enter number of points `n` and get an estimation.
+    2. Compare π values - vies statistics and boxplot of your previous estimations.
+    3. Quit - exit the program.
 
 ## Dependencies
 * Python 3.11

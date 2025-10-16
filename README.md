@@ -1,5 +1,4 @@
 # Monte Carlo π Estimation 
-Calculation of π with Monte Carlo simulation via parallel computing.
 
 ## Introduction
 
